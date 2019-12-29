@@ -11,5 +11,7 @@ https://demo.bigtreecms.org/admin/login/
 Credentials
 Username: demo@bigtreecms.org
 Password: demo
+
+
 User story:
 As a logged in Admin user, I should be able to upload images through the FILES sections on CMS Admin, so that I can use these images while creating content on the site.
