@@ -20,7 +20,7 @@ public class AddImage {
 	
 	public void click_Upload() throws IOException {
 		form_Manual_Upload.click();
-		Runtime.getRuntime().exec("D:\\SoftwareTestingMaterial\\AutoIt\\Uploadfile.exe");
+		Runtime.getRuntime().exec("D:\\SoftwareTestingMaterial\\Uploadfile.exe");
 	}
 
 }
